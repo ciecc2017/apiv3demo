@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="beeper_items">
+        <item>响一声</item>
+        <item>成功</item>
+        <item>失败</item>
+        <item>间歇</item>
+        <item>严重错误</item>
+    </string-array>
+    <string-array name="led_items">
+        <item>蓝</item>
+        <item>黄</item>
+        <item>红</item>
+        <item>绿</item>
+    </string-array>
+</resources>

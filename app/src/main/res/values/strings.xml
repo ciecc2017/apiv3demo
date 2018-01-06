@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Apiv3DemoSDK2.1.4</string>
+
+    <string name="app_1">应用一</string>
+    <string name="transfer">交易</string>
+    <string name="cancel_transfer">取消交易</string>
+    <string name="update_tmk">灌主密钥</string>
+    <string name="update_workkey">灌工作密钥</string>
+    <string name="encrypt_workkey">工作密钥加密</string>
+    <string name="input_online_pin">输入联机密码</string>
+
+    <string name="print_bill">打印交易小票</string>
+
+    <string name="prompt_card">请刷卡/插卡或挥卡</string>
+    <string name="prompt_cardiccrf">请插卡或挥卡</string>
+    <string name="prompt_serachcard_fail">寻卡失败</string>
+    <string name="prompt_amount_err">金额格式有误</string>
+
+    <string name="prompt_return">返回值</string>
+    <string name="prompt_cardtype">实际读到的类型</string>
+    <string name="prompt_cardslot">卡存在的卡槽类型</string>
+    <string name="prompt_track1">一磁道</string>
+    <string name="prompt_track2">二磁道</string>
+    <string name="prompt_track3">三磁道</string>
+    <string name="prompt_cardno">卡号</string>
+
+    <string name="input_amount">输入金额</string>
+    <string name="is_ecash">是否使用电子现金</string>
+    <string name="ensure_cardno">请确认卡号</string>
+    <string name="input_pin_err">pin输入失败</string>
+    <string name="result">结果</string>
+
+    <string name="scanner_content">扫码内容</string>
+    <string name="scanner_timeout">扫码超时</string>
+    <string name="scanner_customer_exit">用户退出</string>
+    <string name="scanner_fail">扫码失败</string>
+    <string name="scanner_start_error">启动扫码失败</string>
+    <string name="scanner_init_error">扫码初化失败</string>
+
+    <string name="print_merchantname">商户名称:应用测试</string>
+    <string name="print_merchantno">商户号:123456789012345</string>
+    <string name="print_terminalno">终端号:12345678</string>
+    <string name="print_operator">操作员号:01</string>
+    <string name="print_issurebank">发卡行:工商银行</string>
+    <string name="print_shoudan">收单行:银联商务</string>
+    <string name="print_expiredate">有效期:26/06</string>
+    <string name="print_cardinfo">621226*********1197/C</string>
+    <string name="print_tradetype">交易类型:</string>
+    <string name="print_unsale">消费撤销</string>
+    <string name="print_batchno">批次号:000938</string>
+    <string name="print_voucher">凭证号:000146</string>
+    <string name="print_authorcode">授权码:012345</string>
+    <string name="print_refrenceno">参考号:150303296481</string>
+    <string name="print_tradedate">交易日期:2016/09/21 15:03:03</string>
+    <string name="print_amount">金额:</string>
+    <string name="print_beizhu">备注:</string>
+    <string name="print_originalvoucher">原凭证号:000145</string>
+    <string name="print_addinfo">附加信息(Host):</string>
+    <string name="print_barcode">1234567890</string>
+    <string name="print_qrcode">测试二维码</string>
+    <string name="print_cardhold">持卡人签名:</string>
+    <string name="print_cardhold_ensure">本人确认以上交易,同意将其计入本卡账户</string>
+    <string name="print_merchant_dan">商户存根</string>
+
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="prompt_enter">确认</string>
+    <string name="prompt_cancel">取消</string>
+
+</resources>
